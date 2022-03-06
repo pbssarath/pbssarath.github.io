@@ -83,12 +83,12 @@ author:
   name             : "Balaji Pokuri"
   avatar           : "profile.png"
   bio              : "Your biography"
-  location         : "USa"
+  location         : "USA"
   employer         :
-  pubmed           : ""
+  pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=cy4PLJYAAAAJ"
   email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     :
   uri              :
   bitbucket        :
   codepen          :
